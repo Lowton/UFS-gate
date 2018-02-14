@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+  <S:Body>
+    <reg:updatePersonInfo xmlns:reg="http://fxgate.web.cft.ru/registration">
+      <reg:login>esb_user029</reg:login>
+      <reg:person first-name="Юзер029" last-name="Банка в">
+        <reg:identity-card number="566029" issue-date="2010-09-19T06:18:33"
+        issuer="Выдан ииииииии все!!" />
+      </reg:person>
+    </reg:updatePersonInfo>
+  </S:Body>
+</S:Envelope>

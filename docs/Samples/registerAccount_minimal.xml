@@ -1,0 +1,9 @@
+<fxg:registerAccount xmlns:fxg="http://fxgate.web.cft.ru/registration">
+  <fxg:login>esb_user024</fxg:login>
+  <fxg:account number="40817810567234466024" first-signs-count="1">
+    <fxg:bank bic="044525348" name="АКБ &quot;ЛАНТА-БАНК&quot; (ЗАО)" />
+  </fxg:account>
+  <fxg:account-rights account-number="40817810567234466024" statement-request="true"
+  payment-create="true" payment-sign-level="1" exchange-debit-create="false"
+  exchange-debit-sign-level="0" exchange-credit-create="false" exchange-credit-sign-level="0" />
+</fxg:registerAccount>

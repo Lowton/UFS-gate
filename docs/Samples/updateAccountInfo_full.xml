@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+  <S:Body>
+    <fxg:updateAccountInfo xmlns:fxg="http://fxgate.web.cft.ru/registration">
+      <fxg:account number="40817810567234465023" name="имя имя имя имяяяяяяяя"
+      open-date="1887-02-20T08:49:45" first-signs-count="1">
+        <fxg:bank bic="044525348" bic-type="ru" inn="630117810654"
+        account-number="30101810400000000348"
+        name="АКБ &quot;ЛАНТА-БАНК&quot; (ЗАО)" />
+      </fxg:account>
+    </fxg:updateAccountInfo>
+  </S:Body>
+</S:Envelope>

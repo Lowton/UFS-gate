@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+  <S:Body>
+    <reg:updateAccountRights xmlns:reg="http://fxgate.web.cft.ru/registration">
+      <reg:login>esb_user0023</reg:login>
+      <reg:account number="40817810567234465023" name="ета 023"
+      open-date="1008-01-11T08:49:45" close-date="2011-02-22T06:18:33" first-signs-count="1">
+        <reg:bank bic="044525348" bic-type="ru" inn="630117810654"
+        account-number="30101810400000000348"
+        name="АКБ &quot;ЛАНТА-БАНК&quot; (ЗАО)" />
+      </reg:account>
+      <reg:account-rights account-number="40817810567234465023" statement-request="false"
+      payment-create="false" payment-sign-level="3" exchange-debit-create="true"
+      exchange-debit-sign-level="1" exchange-credit-create="false" exchange-credit-sign-level="3" />
+    </reg:updateAccountRights>
+  </S:Body>
+</S:Envelope>

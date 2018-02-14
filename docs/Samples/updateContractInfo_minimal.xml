@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+  <S:Body>
+    <reg:updateContractInfo xmlns:reg="http://fxgate.web.cft.ru/registration">
+      <reg:login>esb_user029</reg:login>
+      <reg:contract payment-activation="true" otp-phone="0000000029">
+        <reg:bank bic="044525348" name="АКБ &quot;ЛАНТА-БАНК&quot; (ЗАО)" />
+      </reg:contract>
+    </reg:updateContractInfo>
+  </S:Body>
+</S:Envelope>

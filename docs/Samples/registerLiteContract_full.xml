@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+  <S:Body>
+    <reg:registerLiteContract xmlns:reg="http://fxgate.web.cft.ru/registration">
+      <reg:login>esb_user0028</reg:login>
+      <reg:person inn="184848500028" first-name="Юзер028" last-name="Банка"
+      middle-name="Лантович" birthday="1028-09-29T08:49:45">
+        <reg:identity-card series="6600" number="566028" issue-date="2012-09-19T06:18:33"
+        issuer="УВД такое УВД №9" type="Паспорт" />
+        <reg:contacts address="Ленина, 23\1" zip-code="600122" city="Провинция"
+        area="Область ма" district="что-то" kladr-code="318322"
+        email="example028@example.com" fax="34841384" phone="105055415028" />
+      </reg:person>
+      <reg:contract doc-number="contract_user028" doc-date="2006-08-20T00:27:14"
+      close-date="2009-05-16T19:42:28" payment-activation="true" otp-phone="0000000028">
+        <reg:bank bic="044525348" bic-type="ru" inn="630117810654"
+        account-number="30101810400000000348"
+        name="АКБ &quot;ЛАНТА-БАНК&quot; (ЗАО)" />
+        <reg:document-rights doc-type="free-document" create="true" sign-level="1" />
+      </reg:contract>
+      <reg:account number="40817810567234465028" name="Счет №028" first-signs-count="1"
+      open-date="1955-12-21T18:32:42" close-date="2016-01-02T02:07:42">
+        <reg:bank bic="044525348" bic-type="ru" inn="630117810654"
+        account-number="30101810400000002848"
+        name="АКБ &quot;ЛАНТА-БАНК&quot; (ЗАО)" />
+      </reg:account>
+      <reg:account number="40817810567234466028" name="Счет №028_1" first-signs-count="1"
+      open-date="1956-12-21T18:32:42" close-date="2017-01-02T02:07:42">
+        <reg:bank bic="044525348" bic-type="ru" inn="630117810654"
+        account-number="30101810400000002848"
+        name="АКБ &quot;ЛАНТА-БАНК&quot; (ЗАО)" />
+      </reg:account>
+      <reg:account-rights account-number="40817810567234465028" statement-request="false"
+      payment-create="true" payment-sign-level="1" exchange-debit-create="true"
+      exchange-debit-sign-level="1" exchange-credit-create="true" exchange-credit-sign-level="1" />
+      <reg:account-rights account-number="40817810567234466028" statement-request="false"
+      payment-create="true" payment-sign-level="1" exchange-debit-create="true"
+      exchange-debit-sign-level="1" exchange-credit-create="true" exchange-credit-sign-level="1" />
+    </reg:registerLiteContract>
+  </S:Body>
+</S:Envelope>

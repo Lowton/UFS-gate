@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+  <S:Body>
+    <reg:updatePersonInfo xmlns:reg="http://fxgate.web.cft.ru/registration">
+      <reg:login>esb_user0028</reg:login>
+      <reg:person first-name="Юзер000028" last-name="Банковский" middle-name="Лантович"
+      birthday="1998-11-29T08:49:45" inn="184848500028">
+        <reg:identity-card series="6600" number="566028" issue-date="2000-09-19T06:18:33"
+        issuer="Выдан и все!!" type="Паспорт" />
+        <reg:contacts address="Ленииииина, 123/1" zip-code="600123" city="Провинция Провинциальная"
+        area="Областная обл" district="что-то непонятное" kladr-code="3183223"
+        email="example028_1@example.com" fax="348413842" phone="10500011" />
+      </reg:person>
+    </reg:updatePersonInfo>
+  </S:Body>
+</S:Envelope>
