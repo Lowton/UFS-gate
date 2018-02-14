@@ -1,0 +1,2 @@
+@python rpoke.py
+pause
