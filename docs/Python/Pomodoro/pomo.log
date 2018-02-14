@@ -1,0 +1,10 @@
+2017-05-25 11:01:03,890	DEBUG: Debug message
+2017-05-25 11:01:03,890	INFO: info message 
+2017-05-25 11:01:03,890	WARNING: warn message
+2017-05-25 11:01:03,890	ERROR: error message
+2017-05-25 11:01:03,921	CRITICAL: critical message
+2017-05-25 11:02:23,656	DEBUG	Debug message
+2017-05-25 11:02:23,656	INFO	info message 
+2017-05-25 11:02:23,656	WARNING	warn message
+2017-05-25 11:02:23,656	ERROR	error message
+2017-05-25 11:02:23,672	CRITICAL	critical message
