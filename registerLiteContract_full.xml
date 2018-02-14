@@ -1,0 +1,59 @@
+﻿<?xml version="1.0"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+  <S:Body>
+    <reg:registerLiteContract xmlns:reg="http://fxgate.web.cft.ru/registration">
+      <reg:login>lastuser</reg:login>
+      <reg:person	inn="184848500028"
+					first-name="Марат"
+					last-name="Филонов"
+					middle-name="Сигизмудович"
+					birthday="1965-04-01">
+					<reg:identity-card	series="3606"
+										number="123456"
+										issue-date="2017-09-19"
+										issuer="Отделом радужных лунорогов №36"
+										type="Паспорт" />
+				  <reg:contacts	address="Мира 1-101"
+								zip-code="445544"
+								city="Дивный"
+								area="Магаданская область"
+								district="что-то"
+								kladr-code="318322"
+								email="marat@samidat.org"
+								fax="34841384"
+								phone="783933" />
+	  </reg:person>
+      <reg:contract	doc-number="3"
+					open-date="2018-02-05"
+					payment-activation="true"
+					otp-phone="9272683933">
+					<reg:bank	bic="043678783"
+								bic-type="ru"
+								inn="6323066377"
+								account-number="30101810100000000783"
+								name='АО "РТС-Банк"' />
+					<reg:document-rights	doc-type="free-document"
+											create="true"
+											sign-level="1" />
+      </reg:contract>
+      <reg:account	number="40817810567234465028"
+					name="Счет №028"
+					first-signs-count="1"
+					open-date="2017-12-21">
+					<reg:bank	bic="043678783"
+								bic-type="ru"
+								inn="6323066377"
+								account-number="30101810100000000783"
+								name='АО "РТС-Банк"' />
+      </reg:account>
+      <reg:account-rights	account-number="40817810567234465028"
+							statement-request="false"
+							payment-create="true"
+							payment-sign-level="1"
+							exchange-debit-create="true"
+							exchange-debit-sign-level="1"
+							exchange-credit-create="true"
+							exchange-credit-sign-level="1" />
+    </reg:registerLiteContract>
+  </S:Body>
+</S:Envelope>
