@@ -1,0 +1,11 @@
+[
+{"ID_FIELD":"1","NAME_FIELD":"Идентификаторы объектов","MAND_USE":"false","TYPE_FIELD":"0","YES_SENSE":"0","MEANING_FIELD":"Массив идентификаторов объектов, над которыми произведены действия","IS_NOT_VISUAL":"false","NUM_ORDER":"1","FORMAT_FIELD":"null"},
+{"ID_FIELD":"2","NAME_FIELD":"Массив авторизаций","MAND_USE":"false","TYPE_FIELD":"0","YES_SENSE":"0","MEANING_FIELD":"Массив авторизаций в ПЦ","IS_NOT_VISUAL":"false","NUM_ORDER":"2","FORMAT_FIELD":"null"},
+{"ID_FIELD":"3","NAME_FIELD":"Массив изменений статуса карты","MAND_USE":"false","TYPE_FIELD":"0","YES_SENSE":"0","MEANING_FIELD":"Массив изменений статуса карты","IS_NOT_VISUAL":"false","NUM_ORDER":"3","FORMAT_FIELD":"null"},
+{"ID_FIELD":"4","NAME_FIELD":"Внешний идентификатор операции","MAND_USE":"false","TYPE_FIELD":"4","YES_SENSE":"0","MEANING_FIELD":"Внешний идентификатор операции","IS_NOT_VISUAL":"false","NUM_ORDER":"4","FORMAT_FIELD":"null"},
+{"ID_FIELD":"5","NAME_FIELD":"GUID операции","MAND_USE":"false","TYPE_FIELD":"4","YES_SENSE":"0","MEANING_FIELD":"GUID операции","IS_NOT_VISUAL":"false","NUM_ORDER":"5","FORMAT_FIELD":"null"},
+{"ID_FIELD":"6","NAME_FIELD":"Массив подкл./откл. услуг SMS-Банка","MAND_USE":"false","TYPE_FIELD":"0","YES_SENSE":"0","MEANING_FIELD":"Массив подкл./откл. услуг SMS-Банка","IS_NOT_VISUAL":"false","NUM_ORDER":"6","FORMAT_FIELD":"null"},
+{"ID_FIELD":"7","NAME_FIELD":"Массив данных по договору SMS-Банка","MAND_USE":"false","TYPE_FIELD":"0","YES_SENSE":"0","MEANING_FIELD":"Массив данных по договору SMS-Банка","IS_NOT_VISUAL":"false","NUM_ORDER":"7","FORMAT_FIELD":"null"},
+{"ID_FIELD":"8","NAME_FIELD":"Массив данных по услугам SMS-Банка","MAND_USE":"false","TYPE_FIELD":"0","YES_SENSE":"0","MEANING_FIELD":"Массив данных по услугам SMS-Банка","IS_NOT_VISUAL":"false","NUM_ORDER":"8","FORMAT_FIELD":"null"},
+{"ID_FIELD":"9","NAME_FIELD":"Требуется внешняя обработка","MAND_USE":"false","TYPE_FIELD":"5","YES_SENSE":"0","MEANING_FIELD":"Признак обработки документа во внешнем модуле","IS_NOT_VISUAL":"false","NUM_ORDER":"9","FORMAT_FIELD":"null"},
+{"ID_FIELD":"10","NAME_FIELD":"Изменение лимита карты","MAND_USE":"false","TYPE_FIELD":"0","YES_SENSE":"1","MEANING_FIELD":"Изменение лимита карты","IS_NOT_VISUAL":"false","NUM_ORDER":"10","FORMAT_FIELD":"null"}]

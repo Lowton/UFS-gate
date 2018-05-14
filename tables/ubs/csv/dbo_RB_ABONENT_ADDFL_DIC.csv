@@ -1,0 +1,6 @@
+﻿"ID_FIELD";"NAME_FIELD";"MAND_USE";"TYPE_FIELD";"YES_SENSE";"MEANING_FIELD";"IS_NOT_VISUAL";"NUM_ORDER";"FORMAT_FIELD"
+1;"Разрешенные IP-адреса";false;0;0;"Список разрешенных IP-адресов";false;1;null
+2;"Модуль взаимодействия с СКЗИ";false;4;0;"Модуль взаимодействия с СКЗИ";true;2;null
+3;"Документ, удостоверяющий личность";false;4;0;"Документ, удостоверяющий личность";false;3;null
+4;"Адрес";false;4;0;"Адрес";false;4;null
+5;"Должность";false;4;0;"Должность";false;5;null

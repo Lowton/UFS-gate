@@ -1,0 +1,19 @@
+﻿"ID_FIELD";"INDEX_COLUMN";"NUM_SENSE";"SENSE_INT";"SENSE_DATE";"SENSE_MONEY";"SENSE_STRING";"SENSE_DECIMAL"
+4;3;1;null;null;null;"в днях";null
+4;3;2;null;null;null;"в месяцах";null
+4;3;3;null;null;null;"в годах";null
+8;1;1;null;null;null;"в днях";null
+8;1;2;null;null;null;"в месяцах";null
+8;1;3;null;null;null;"в годах";null
+18;4;1;null;null;null;"день";null
+18;4;2;null;null;null;"месяц";null
+18;4;3;null;null;null;"год";null
+18;7;1;null;null;null;"день";null
+18;7;2;null;null;null;"месяц";null
+18;7;3;null;null;null;"год";null
+18;9;1;null;null;null;"день";null
+18;9;2;null;null;null;"месяц";null
+18;9;3;null;null;null;"год";null
+20;0;1;null;null;null;"Пополнение";null
+20;0;2;null;null;null;"Снятие";null
+20;0;3;null;null;null;"Пролонгация";null

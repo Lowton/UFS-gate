@@ -1,0 +1,4 @@
+[
+{"ID_MODEL":"1","NAME_MODEL":"Базовый договор юридического лица и ИП","TYPE_CONTRACT":"0","ID_USER_EDIT":"0","TIME_EDIT":"01.01.1990 0:00:00"},
+{"ID_MODEL":"2","NAME_MODEL":"Базовый договор частного лица","TYPE_CONTRACT":"1","ID_USER_EDIT":"0","TIME_EDIT":"01.01.1990 0:00:00"},
+{"ID_MODEL":"3","NAME_MODEL":"Договор ДБО","TYPE_CONTRACT":"1","ID_USER_EDIT":"4","TIME_EDIT":"01.03.2018 14:52:26"}]

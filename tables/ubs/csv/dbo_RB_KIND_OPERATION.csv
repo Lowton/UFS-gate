@@ -1,0 +1,6 @@
+﻿"ID_KIND_OPERATION";"SID_KIND_OPERATION";"NAME_OPERATION"
+1;"UBS_RB_DOC_PROCESSING";"Обработка документа"
+2;"UBS_CREATE_CONTRACT";"Создание договора обслуживания"
+3;"UBS_CHANGE_CONDITION_CONTRACT";"Изменение условий договора обслуживания"
+4;"UBS_PAY_CONNECTION";"Оплата подключения"
+5;"UBS_USER_PAY";"Списание абонентской платы"

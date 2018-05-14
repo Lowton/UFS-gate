@@ -1,0 +1,14 @@
+﻿"ID_FIELD";"NUM_SENSE";"SENSE_INT";"SENSE_DATE";"SENSE_MONEY";"SENSE_STRING";"SENSE_DECIMAL"
+23;1;null;null;null;"Стандартные";null
+23;2;null;null;null;"Зарплатный проект";null
+23;3;null;null;null;"Все";null
+23;4;null;null;null;"Пенсионер";null
+24;1;null;null;null;"Visa";null
+24;2;null;null;null;"MasterCard";null
+24;3;null;null;null;"МИР";null
+25;1;null;null;null;"Classic";null
+25;2;null;null;null;"Gold";null
+25;3;null;null;null;"Platinum";null
+25;4;null;null;null;"Infinite";null
+25;5;null;null;null;"Классическая";null
+25;6;null;null;null;"Премиальная";null

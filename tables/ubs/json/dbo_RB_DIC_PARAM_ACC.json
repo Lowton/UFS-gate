@@ -1,0 +1,9 @@
+[
+{"ID_PARAM":"0","NAME_PARAM":"Значение"},
+{"ID_PARAM":"1","NAME_PARAM":"Валюта"},
+{"ID_PARAM":"2","NAME_PARAM":"Отделение"},
+{"ID_PARAM":"3","NAME_PARAM":"Резидентность"},
+{"ID_PARAM":"4","NAME_PARAM":"Тип договора"},
+{"ID_PARAM":"7","NAME_PARAM":"Вид документа"},
+{"ID_PARAM":"8","NAME_PARAM":"Типовой договор"},
+{"ID_PARAM":"9","NAME_PARAM":"Вид клиента"}]

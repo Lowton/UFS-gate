@@ -1,0 +1,8 @@
+[
+{"ID_FIELD":"1","INDEX_COLUMN":"0","NAME_COLUMN":"Тип периода","TYPE_COLUMN":"4","YES_SENSE":"1","FORMAT_COLUMN":"","MEANING_COLUMN":"Тип льготного периода"},
+{"ID_FIELD":"1","INDEX_COLUMN":"1","NAME_COLUMN":"Период","TYPE_COLUMN":"1","YES_SENSE":"0","FORMAT_COLUMN":"","MEANING_COLUMN":"Льготный период"},
+{"ID_FIELD":"2","INDEX_COLUMN":"0","NAME_COLUMN":"Идентификатор вида документа","TYPE_COLUMN":"1","YES_SENSE":"0","FORMAT_COLUMN":"","MEANING_COLUMN":"Идентификатор вида документа"},
+{"ID_FIELD":"2","INDEX_COLUMN":"1","NAME_COLUMN":"Маска доступа","TYPE_COLUMN":"1","YES_SENSE":"0","FORMAT_COLUMN":"","MEANING_COLUMN":"Маска доступа"},
+{"ID_FIELD":"4","INDEX_COLUMN":"0","NAME_COLUMN":"Код бизнеса","TYPE_COLUMN":"4","YES_SENSE":"0","FORMAT_COLUMN":"","MEANING_COLUMN":"Код бизнеса"},
+{"ID_FIELD":"4","INDEX_COLUMN":"1","NAME_COLUMN":"Маска","TYPE_COLUMN":"1","YES_SENSE":"0","FORMAT_COLUMN":"","MEANING_COLUMN":"Маска"},
+{"ID_FIELD":"7","INDEX_COLUMN":"0","NAME_COLUMN":"Ид.банковских договоров","TYPE_COLUMN":"4","YES_SENSE":"0","FORMAT_COLUMN":"","MEANING_COLUMN":"Ид.банковских договоров"}]

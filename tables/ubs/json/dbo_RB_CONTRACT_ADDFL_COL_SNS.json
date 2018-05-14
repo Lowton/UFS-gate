@@ -1,0 +1,10 @@
+[
+{"ID_FIELD":"25","INDEX_COLUMN":"0","NUM_SENSE":"1","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"ИНН","SENSE_DECIMAL":"null"},
+{"ID_FIELD":"25","INDEX_COLUMN":"0","NUM_SENSE":"2","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"ВУ","SENSE_DECIMAL":"null"},
+{"ID_FIELD":"25","INDEX_COLUMN":"0","NUM_SENSE":"3","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"СТС","SENSE_DECIMAL":"null"},
+{"ID_FIELD":"25","INDEX_COLUMN":"0","NUM_SENSE":"4","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"СНИЛС","SENSE_DECIMAL":"null"},
+{"ID_FIELD":"28","INDEX_COLUMN":"0","NUM_SENSE":"1","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"Цветы","SENSE_DECIMAL":"null"},
+{"ID_FIELD":"28","INDEX_COLUMN":"0","NUM_SENSE":"2","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"Спортивные клубы","SENSE_DECIMAL":"null"},
+{"ID_FIELD":"28","INDEX_COLUMN":"0","NUM_SENSE":"3","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"Услуги транспорта","SENSE_DECIMAL":"null"},
+{"ID_FIELD":"28","INDEX_COLUMN":"0","NUM_SENSE":"4","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"Аптеки","SENSE_DECIMAL":"null"},
+{"ID_FIELD":"28","INDEX_COLUMN":"0","NUM_SENSE":"5","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"Парфюмерия и косметика","SENSE_DECIMAL":"null"}]

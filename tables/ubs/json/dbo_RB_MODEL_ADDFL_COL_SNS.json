@@ -1,0 +1,4 @@
+[
+{"ID_FIELD":"1","INDEX_COLUMN":"0","NUM_SENSE":"1","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"День","SENSE_DECIMAL":"null"},
+{"ID_FIELD":"1","INDEX_COLUMN":"0","NUM_SENSE":"2","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"Месяц","SENSE_DECIMAL":"null"},
+{"ID_FIELD":"1","INDEX_COLUMN":"0","NUM_SENSE":"3","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"Год","SENSE_DECIMAL":"null"}]

@@ -1,0 +1,3 @@
+﻿"id";"role_name";"description";"can_block";"can_edit";"can_web_send";"can_import_contracts";"can_refresh_info";"can_send_otp";"can_view_pan"
+1,0;"administrator";"Администратор";1;1;1;1;1;1;null
+2,0;"operator";"Оператор контакт-центра";1;0;0;0;0;0;null

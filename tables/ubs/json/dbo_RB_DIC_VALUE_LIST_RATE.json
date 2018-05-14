@@ -1,0 +1,7 @@
+[
+{"ID_VALUE":"1","ID_PARAM":"2","NODE_VALUE":"1","NODE_NAME":"Рубли"},
+{"ID_VALUE":"1","ID_PARAM":"2","NODE_VALUE":"2","NODE_NAME":"ИнВалюта"},
+{"ID_VALUE":"1","ID_PARAM":"6","NODE_VALUE":"0","NODE_NAME":"Отсутствует"},
+{"ID_VALUE":"1","ID_PARAM":"6","NODE_VALUE":"1","NODE_NAME":"ЭЦП"},
+{"ID_VALUE":"1","ID_PARAM":"6","NODE_VALUE":"2","NODE_NAME":"Подтверждение"},
+{"ID_VALUE":"1","ID_PARAM":"6","NODE_VALUE":"3","NODE_NAME":"Все"}]

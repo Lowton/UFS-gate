@@ -1,0 +1,5 @@
+﻿"id";"person_ref";"subject_dn";"issuer_dn";"pic_envelope";"is_lite";"lite_login";"is_enabled";"is_mobile"
+108,0;7,0;"CN=FakturaLite150415_210521, O=faktura.lite, L=Novosibirsk, C=RU";"CN=Class 2 CA, OU=CAs, O=FTC, C=RU";null;1;"gogogo";1;null
+181,0;178,0;"CN=FakturaLite67162df8-6aa0-4bc0-812c-7740bd84154c, O=faktura.lite, L=Novosibirsk, C=RU";"CN=Class 2 CA, OU=CAs, O=FTC, C=RU";null;1;"9272683933";1;null
+215,0;213,0;"CN=FakturaLite9b1ad78e-ca2f-4fb2-af91-cf1ffdd4923d, O=faktura.lite, L=Novosibirsk, C=RU";"CN=Class 2 CA, OU=CAs, O=FTC, C=RU";null;1;"esb_user029";1;null
+238,0;221,0;"CN=FakturaLite0d449c71-64af-4a60-8253-bd135f55e9b8, O=faktura.lite, L=Novosibirsk, C=RU";"CN=Class 2 CA, OU=CAs, O=FTC, C=RU";null;1;"lastuser";1;null

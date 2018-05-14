@@ -1,0 +1,8 @@
+﻿"ID_FIELD";"NUM_SENSE";"SENSE_INT";"SENSE_DATE";"SENSE_MONEY";"SENSE_STRING";"SENSE_DECIMAL"
+11;1;null;null;null;"Еженедельно";null
+11;2;null;null;null;"Ежемесячно";null
+20;1;null;null;null;"Стандартная";null
+20;2;null;null;null;"Расширенная";null
+23;1;null;null;null;"По дате";null
+23;2;null;null;null;"По сумме ДБ";null
+23;3;null;null;null;"По сумме КР";null

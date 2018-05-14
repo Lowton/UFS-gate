@@ -1,0 +1,5 @@
+﻿SELECT cca.POST_INDEX,
+       cca.NAME_CITY,
+       cca.TYPE_STREET + '. ' + cca.NAME_STREET + ' ' + cca.NUM_BUILDING + '-' + cca.NUM_FLAT AS ADDRESS
+  FROM COM_CLIENTS_ADDRESS cca
+  WHERE cca.ID_CLIENT = 7245

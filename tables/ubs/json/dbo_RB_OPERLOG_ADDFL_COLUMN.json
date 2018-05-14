@@ -1,0 +1,4 @@
+[
+{"ID_FIELD":"1","INDEX_COLUMN":"0","NAME_COLUMN":"Тип объекта","TYPE_COLUMN":"4","YES_SENSE":"0","FORMAT_COLUMN":"","MEANING_COLUMN":"Тип объекта"},
+{"ID_FIELD":"1","INDEX_COLUMN":"1","NAME_COLUMN":"Идентификатор объекта","TYPE_COLUMN":"1","YES_SENSE":"0","FORMAT_COLUMN":"","MEANING_COLUMN":"Идентификатор объекта"},
+{"ID_FIELD":"1","INDEX_COLUMN":"2","NAME_COLUMN":"Тип действия над объектом","TYPE_COLUMN":"4","YES_SENSE":"0","FORMAT_COLUMN":"","MEANING_COLUMN":"Тип действия над объектом"}]

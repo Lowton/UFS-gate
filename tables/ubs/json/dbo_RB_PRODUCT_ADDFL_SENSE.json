@@ -1,0 +1,14 @@
+[
+{"ID_FIELD":"23","NUM_SENSE":"1","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"Стандартные","SENSE_DECIMAL":"null"},
+{"ID_FIELD":"23","NUM_SENSE":"2","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"Зарплатный проект","SENSE_DECIMAL":"null"},
+{"ID_FIELD":"23","NUM_SENSE":"3","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"Все","SENSE_DECIMAL":"null"},
+{"ID_FIELD":"23","NUM_SENSE":"4","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"Пенсионер","SENSE_DECIMAL":"null"},
+{"ID_FIELD":"24","NUM_SENSE":"1","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"Visa","SENSE_DECIMAL":"null"},
+{"ID_FIELD":"24","NUM_SENSE":"2","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"MasterCard","SENSE_DECIMAL":"null"},
+{"ID_FIELD":"24","NUM_SENSE":"3","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"МИР","SENSE_DECIMAL":"null"},
+{"ID_FIELD":"25","NUM_SENSE":"1","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"Classic","SENSE_DECIMAL":"null"},
+{"ID_FIELD":"25","NUM_SENSE":"2","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"Gold","SENSE_DECIMAL":"null"},
+{"ID_FIELD":"25","NUM_SENSE":"3","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"Platinum","SENSE_DECIMAL":"null"},
+{"ID_FIELD":"25","NUM_SENSE":"4","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"Infinite","SENSE_DECIMAL":"null"},
+{"ID_FIELD":"25","NUM_SENSE":"5","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"Классическая","SENSE_DECIMAL":"null"},
+{"ID_FIELD":"25","NUM_SENSE":"6","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"Премиальная","SENSE_DECIMAL":"null"}]

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+	<S:Body>
+		<reg:updateCards xmlns:reg="http://fxgate.web.cft.ru/registration">
+			<reg:account number="40817810400000289128" first-signs-count="1">
+				<reg:bank bic="045025728" name="Тестовый банк Faktura" />
+			</reg:account>
+			<!--1 or more repetitions:-->
+			<reg:card number="2121454545458283" name="VISA тестовая карта" type="VPS" expiration-date="2022-12-01" card-account-number="1999284442" payment-system="VISA" card-product-code="599"/>
+		</reg:updateCards>
+	</S:Body>
+</S:Envelope>

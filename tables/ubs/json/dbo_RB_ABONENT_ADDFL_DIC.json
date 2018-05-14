@@ -1,0 +1,6 @@
+[
+{"ID_FIELD":"1","NAME_FIELD":"Разрешенные IP-адреса","MAND_USE":"false","TYPE_FIELD":"0","YES_SENSE":"0","MEANING_FIELD":"Список разрешенных IP-адресов","IS_NOT_VISUAL":"false","NUM_ORDER":"1","FORMAT_FIELD":"null"},
+{"ID_FIELD":"2","NAME_FIELD":"Модуль взаимодействия с СКЗИ","MAND_USE":"false","TYPE_FIELD":"4","YES_SENSE":"0","MEANING_FIELD":"Модуль взаимодействия с СКЗИ","IS_NOT_VISUAL":"true","NUM_ORDER":"2","FORMAT_FIELD":"null"},
+{"ID_FIELD":"3","NAME_FIELD":"Документ, удостоверяющий личность","MAND_USE":"false","TYPE_FIELD":"4","YES_SENSE":"0","MEANING_FIELD":"Документ, удостоверяющий личность","IS_NOT_VISUAL":"false","NUM_ORDER":"3","FORMAT_FIELD":"null"},
+{"ID_FIELD":"4","NAME_FIELD":"Адрес","MAND_USE":"false","TYPE_FIELD":"4","YES_SENSE":"0","MEANING_FIELD":"Адрес","IS_NOT_VISUAL":"false","NUM_ORDER":"4","FORMAT_FIELD":"null"},
+{"ID_FIELD":"5","NAME_FIELD":"Должность","MAND_USE":"false","TYPE_FIELD":"4","YES_SENSE":"0","MEANING_FIELD":"Должность","IS_NOT_VISUAL":"false","NUM_ORDER":"5","FORMAT_FIELD":"null"}]

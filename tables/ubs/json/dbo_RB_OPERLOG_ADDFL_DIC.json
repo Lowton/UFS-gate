@@ -1,0 +1,3 @@
+[
+{"ID_FIELD":"1","NAME_FIELD":"Действия операции","MAND_USE":"false","TYPE_FIELD":"0","YES_SENSE":"0","MEANING_FIELD":"Действия операции","IS_NOT_VISUAL":"false","NUM_ORDER":"1","FORMAT_FIELD":"null"},
+{"ID_FIELD":"2","NAME_FIELD":"Сумма операции","MAND_USE":"false","TYPE_FIELD":"3","YES_SENSE":"0","MEANING_FIELD":"Сумма операции","IS_NOT_VISUAL":"false","NUM_ORDER":"2","FORMAT_FIELD":"null"}]

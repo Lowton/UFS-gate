@@ -25,7 +25,7 @@
         name="АКБ &quot;ЛАНТА-БАНК&quot; (ЗАО)" />
       </reg:account>
       <reg:account number="40817810567234466028" name="Счет №028_1" first-signs-count="1"
-      open-date="1956-12-21T18:32:42" close-date="2017-01-02T02:07:42">
+      open-date="1956-12-21T18:32:42" close-date="2017-01-02T02:07:42" fake-acc-4-card="true">
         <reg:bank bic="044525348" bic-type="ru" inn="630117810654"
         account-number="30101810400000002848"
         name="АКБ &quot;ЛАНТА-БАНК&quot; (ЗАО)" />
@@ -37,5 +37,7 @@
       payment-create="true" payment-sign-level="1" exchange-debit-create="true"
       exchange-debit-sign-level="1" exchange-credit-create="true" exchange-credit-sign-level="1" />
     </reg:registerLiteContract>
+	<reg:card number="" name="" type="" expiration-date="" card-account-number="" payment-system="" card-product-code="" />
+	<reg:cardRight change-card-limit="">
   </S:Body>
 </S:Envelope>

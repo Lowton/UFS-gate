@@ -1,0 +1,4 @@
+﻿"ID_FIELD";"INDEX_COLUMN";"NUM_SENSE";"SENSE_INT";"SENSE_DATE";"SENSE_MONEY";"SENSE_STRING";"SENSE_DECIMAL"
+1;0;1;null;null;null;"День";null
+1;0;2;null;null;null;"Месяц";null
+1;0;3;null;null;null;"Год";null

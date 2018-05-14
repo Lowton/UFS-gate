@@ -1,0 +1,2 @@
+﻿"id";"group_name";"description";"inbox_dir";"outbox_dir";"printer_name";"is_default";"parent_ref"
+5,0;"default";"Группа клиентов по умолчанию";"inbox";"outbox";null;1;null

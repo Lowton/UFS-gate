@@ -1,0 +1,59 @@
+﻿"gate_id";"class";"global_id";"doc_type";"doc_num";"doc_date";"ins_date";"state";"oper_date";"doc_comment";"bank_notes";"payer_account";"client_id";"summ";"xml";"bank_ref";"abs_doc_id";"incoming";"prototype";"revoking_doc";"source_ip"
+1,0;"PAY";"14d6749f-a7b7-46e2-9531-aa462ad37e22";"payment";"1";15.02.2018 0:00:00;15.02.2018 10:35:17;"SENT";null;"com.sun.xml.ws.fault.ServerSOAPFaultException: Client received SOAP Fault from server: Input string was not in a correct format. Please see the server log to find more detail regarding exact cuase of the failure.";null;"42307810500001000001";178,0;10,0;"<Document stan=""faktura.lite.489908.1518676253860"">  <dsig:Object xmlns:dsig=""http://www.w3.org/2000/01/xmldsig/"" Id=""Res0"" xmlns=""""><payment doc-date=""2018-02-15"" doc-number=""1"" document_type=""d"" form-revision=""2003-06-01"" id=""14d6749f-a7b7-46e2-9531-aa462ad37e22"" operation-type=""01"" queue=""5""><amount currency=""RUR"" value=""10.00"" value-spelled=""Десять рублей 00 копеек""/><payment-info>Перевод собственных средств.
+Без налога (НДС).</payment-info><payer name=""Кузьменко Алексей Александрович"" system-reg-number=""287648""><account number=""42307810500001000001""><bank account-number=""30101810100000000783"" bic=""043678783"" name=""АО &quot;РТС-БАНК&quot;""><address city=""Г.ТОЛЬЯТТИ""/></bank></account></payer><payee name=""Кузьменко Алексей Александрович""><account number=""40817810900100008274""><bank account-number=""30101810100000000783"" bic=""043678783"" name=""АО &quot;РТС-БАНК&quot;""><address city=""Г.ТОЛЬЯТТИ""/></bank></account></payee><internal-data payee-card-number=""xxxxxxxxxxxx8358"" sys-order-id=""213063567""/><aux-auth app-channel=""web/lite"" auth-code=""656925"" auth-mode=""otp"" otp-channel=""sms""/></payment></dsig:Object>
+  <Manifest Id=""metaData""><Reference IDREF=""Res0"">
+      <Transforms><Transform Algorithm=""http://www.w3.org/TR/1999/WD-xml-c14n-19991115""/></Transforms>
+      <DigestMethod Algorithm=""http://www.w3.org/2000/01/xmldsig/md5""/>
+      <DigestValue Encoding=""http://www.w3.org/2000/01/xmldsig/base64"">
+        HIkaeDT1j0rcqCrHb4YrfA==
+      </DigestValue>
+    </Reference>
+  </Manifest>
+<Signature xmlns=""http://www.w3.org/2000/01/xmldsig/"">
+  <SignedInfo>
+    <CanonicalizationMethod Algorithm=""http://www.w3.org/TR/1999/WD-xml-c14n-19991115""/>
+    <SignatureMethod Algorithm=""http://www.w3.org/2000/01/xmldsig/rsa-sha1""/>
+    <Reference IDREF=""metaData"">
+      <Transforms><Transform Algorithm=""http://www.w3.org/TR/1999/WD-xml-c14n-19991115""/></Transforms>
+      <DigestMethod Algorithm=""http://www.w3.org/2000/01/xmldsig/md5""/>
+      <DigestValue Encoding=""http://www.w3.org/2000/01/xmldsig/base64"">
+        IMBL4O5maEyG/43UBX2Sjw==
+      </DigestValue>
+    </Reference>
+    <Reference IDREF=""Res1"">
+      <Transforms><Transform Algorithm=""http://www.w3.org/TR/1999/WD-xml-c14n-19991115""/></Transforms>
+      <DigestMethod Algorithm=""http://www.w3.org/2000/01/xmldsig/md5""/>
+      <DigestValue Encoding=""http://www.w3.org/2000/01/xmldsig/base64"">
+        6Yy5sJGItkWSMvWxz4jwng==
+      </DigestValue>
+    </Reference>
+  </SignedInfo>
+  <SignatureValue>
+    iJKwytAwCawxJbXp8dpFHLcBOH/bYmbzGhdR0Fb2MMeKHWAv7u6aa7J60eD+XUDyOTRbwpVcn9w9
+PZWnQ5NXDEEFCRxL9pCj+zzwAiQudmEB+FsZHqxXWQ5DxwbUu0EIn+NHm+9k42qkq7BiAroRQ7Op
+zKhErE8bT2o5ESZPlV4=
+  </SignatureValue>
+  <KeyInfo>
+    <X509Data>
+      <X509SubjectName>CN=FakturaLite67162df8-6aa0-4bc0-812c-7740bd84154c, O=faktura.lite, L=Novosibirsk, C=RU</X509SubjectName>
+      <X509Certificate>
+MIIC9TCCAl6gAwIBAgIDBPZLMA0GCSqGSIb3DQEBBQUAMD4xCzAJBgNVBAYTAlJVMQwwCgYDVQQK
+EwNGVEMxDDAKBgNVBAsTA0NBczETMBEGA1UEAxMKQ2xhc3MgMiBDQTAeFw0xODAxMDkwOTM0NDZa
+Fw0zMzAxMzAwOTM0NDZaMHQxCzAJBgNVBAYTAlJVMRQwEgYDVQQHEwtOb3Zvc2liaXJzazEVMBMG
+A1UEChMMZmFrdHVyYS5saXRlMTgwNgYDVQQDEy9GYWt0dXJhTGl0ZTY3MTYyZGY4LTZhYTAtNGJj
+MC04MTJjLTc3NDBiZDg0MTU0YzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAnPIJz3kNlvds
+RVGG8n9zkGwvH/Cccvw2jQpEnbglrWvF8PBso7nnAh0yQX+eoMDZFb5OSlT+Z11XZS78ymxWVf5N
+LBCUo1uFD8Hzd/iWc6cWr539Ch94lN5uUKHRdp/O/E0cVpL5vi9hu/uI1fQ3P4YnHC2odaUoZGW0
+KLhGl38CAwEAAaOByjCBxzAJBgNVHRMEAjAAMBEGCWCGSAGG+EIBAQQEAwIFoDALBgNVHQ8EBAMC
+BPAwKAYJYIZIAYb4QgENBBsWGUZUQyBHZW5lcmF0ZWQgQ2VydGlmaWNhdGUwHQYDVR0OBBYEFGNU
+8VY8fYvrnPeqJJo4swrQsGAOMFEGA1UdIwRKMEihQ6RBMD8xCzAJBgNVBAYTAlJVMQwwCgYDVQQL
+EwNDQXMxDDAKBgNVBAoTA0ZUQzEUMBIGA1UEAxMLU3VuZHJ5IFJvb3SCAQIwDQYJKoZIhvcNAQEF
+BQADgYEARcqLDxY2P0YW5smCenNmw1hda296dJjv/G66i5kPHGUGRRritDBHNcEKldqgHxil3efg
+3MXATYeYaFddtD1OO+vfJwW4w1j7UjCNnEJNr/Fg0xGf5LptOacovDNBWjGY0lW9HWphmxinRcbo
+yR9jkdnB10kQjc+IlvgG6R2Gr10=
+      </X509Certificate>
+    </X509Data>
+  </KeyInfo>
+  <dsig:Object xmlns:dsig=""http://www.w3.org/2000/01/xmldsig/"" Id=""Res1"" xmlns=""""><SignatureProperties><SignatureProperty Target=""TimeStamp""><AuxAuth app-channel=""web/lite"" auth-code=""656925"" auth-mode=""otp"" otp-channel=""sms""/><randomstamp>ws85owcIIkfb2cDUb3z2ig==</randomstamp><date>2018-02-15</date><time>13:30:53:860</time></SignatureProperty></SignatureProperties></dsig:Object>
+</Signature>
+</Document>";3,0;null;null;null;null;"217.113.122.251"

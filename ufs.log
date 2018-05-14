@@ -1,0 +1,172 @@
+2018-04-04 16:26:27,751	INFO: Паспорт; 36 07; 700959; 2007-06-15; Отделом УФМС России по Самарской области в Автозаводском районе гор. Тольятти
+2018-04-04 16:32:44,785	INFO: Паспорт; 36 07; 700959; 2007-06-15; Отделом УФМС России по Самарской области в Автозаводском районе гор. Тольятти
+2018-04-04 16:32:44,803	INFO: Логин клиента: lk_voronova
+2018-04-04 16:34:34,747	INFO: ID клиента 2095
+2018-04-04 16:34:34,755	INFO: Паспорт; 36 05; 038394; 2004-11-02; Автозаводским РУВД г. Тольятти Самарской области
+2018-04-04 16:34:34,773	INFO: Логин клиента: lk_voronova
+2018-04-04 16:35:32,985	INFO: ID клиента 7245
+2018-04-04 16:35:32,992	INFO: Паспорт; 36 07; 700959; 2007-06-15; Отделом УФМС России по Самарской области в Автозаводском районе гор. Тольятти
+2018-04-04 16:35:33,013	INFO: Логин клиента: 9272683933
+2018-04-05 08:58:14,014	INFO: Логин клиента: 9272683933
+2018-04-05 08:58:14,087	INFO: ID клиента 7245
+2018-04-05 08:58:14,115	INFO: Паспорт; 36 07; 700959; 2007-06-15; Отделом УФМС России по Самарской области в Автозаводском районе гор. Тольятти
+2018-04-05 08:59:25,333	INFO: Логин клиента: 9272683933
+2018-04-05 08:59:25,353	INFO: ID клиента 7245
+2018-04-05 08:59:25,361	INFO: Паспорт; 36 07; 700959; 2007-06-15; Отделом УФМС России по Самарской области в Автозаводском районе гор. Тольятти
+2018-04-05 08:59:36,153	INFO: Логин клиента: 9272683933
+2018-04-05 08:59:36,163	INFO: ID клиента 7245
+2018-04-05 08:59:36,169	INFO: Паспорт; 36 07; 700959; 2007-06-15; Отделом УФМС России по Самарской области в Автозаводском районе гор. Тольятти
+2018-04-05 08:59:36,185	INFO: ID клиента 7245
+2018-04-05 08:59:36,192	INFO: Адрес :445028, РОССИЯ, Тольятти, ул. Фрунзе 37-137
+2018-04-05 08:59:51,381	INFO: Логин клиента: 9272683933
+2018-04-05 08:59:51,411	INFO: ID клиента 7245
+2018-04-05 08:59:51,418	INFO: Паспорт; 36 07; 700959; 2007-06-15; Отделом УФМС России по Самарской области в Автозаводском районе гор. Тольятти
+2018-04-05 08:59:51,429	INFO: ID клиента 7245
+2018-04-05 08:59:51,436	INFO: Адрес :445028, РОССИЯ, Тольятти, ул. Фрунзе 37-137
+2018-04-05 09:00:45,975	INFO: Логин клиента: 9272683933
+2018-04-05 09:00:45,995	INFO: ID клиента 7245
+2018-04-05 09:00:46,002	INFO: Паспорт; 36 07; 700959; 2007-06-15; Отделом УФМС России по Самарской области в Автозаводском районе гор. Тольятти
+2018-04-05 09:00:46,015	INFO: ID клиента 7245
+2018-04-05 09:00:46,022	INFO: Адрес: 445028, РОССИЯ, Тольятти, ул. Фрунзе 37-137
+2018-04-05 09:38:14,254	INFO: (select id_field from CLIENTS_ADDFL_DIC              where name_field = 'Гражданство (подданство)')
+2018-04-05 09:38:21,306	INFO: (select id_field from CLIENTS_ADDFL_DIC              where name_field = 'Гражданство (подданство)')
+2018-04-05 09:40:02,087	INFO: (select id_field from CLIENTS_ADDFL_DIC              where name_field = 'Гражданство (подданство)')
+2018-04-05 09:40:02,160	INFO: Логин клиента: 9272683933
+2018-04-05 09:40:02,212	INFO: ID клиента 7245
+2018-04-05 09:40:02,220	INFO: Паспорт; 36 07; 700959; 2007-06-15; Отделом УФМС России по Самарской области в Автозаводском районе гор. Тольятти
+2018-04-05 09:40:02,244	INFO: ID клиента 7245
+2018-04-05 09:40:02,246	INFO: (select id_field from CLIENTS_ADDFL_DIC              where name_field = 'Гражданство (подданство)')
+2018-04-05 09:40:02,261	INFO: Адрес: 445028, РОССИЯ, Тольятти, ул. Фрунзе 37-137
+2018-04-05 10:07:34,557	INFO: Логин клиента: 9272683933
+2018-04-05 10:07:34,585	INFO: ID клиента 7245
+2018-04-05 10:07:34,591	INFO: Паспорт; 36 07; 700959; 2007-06-15; Отделом УФМС России по Самарской области в Автозаводском районе гор. Тольятти
+2018-04-05 10:07:34,605	INFO: ID клиента 7245
+2018-04-05 10:07:34,607	INFO: (select id_field from CLIENTS_ADDFL_DIC              where name_field = 'Гражданство (подданство)')
+2018-04-05 10:07:34,607	INFO: (select id_field from RB_CONTRACT_ADDFL_DIC              where name_field = 'Мобильный для ДБО')
+2018-04-05 10:07:34,607	INFO: (select id_field from RB_CONTRACT_ADDFL_DIC              where name_field = 'EMail клиента')
+2018-04-05 10:07:34,640	INFO: Адрес: 445028, РОССИЯ, Тольятти, ул. Фрунзе 37-137
+2018-04-05 10:09:03,339	INFO: Логин клиента: 9272683933
+2018-04-05 10:09:03,357	INFO: ID клиента 7245
+2018-04-05 10:09:03,364	INFO: Паспорт; 36 07; 700959; 2007-06-15; Отделом УФМС России по Самарской области в Автозаводском районе гор. Тольятти
+2018-04-05 10:09:03,383	INFO: ID клиента 7245
+2018-04-05 10:09:03,385	INFO: (select id_field from CLIENTS_ADDFL_DIC              where name_field = 'Гражданство (подданство)')
+2018-04-05 10:09:03,385	INFO: (select id_field from RB_CONTRACT_ADDFL_DIC              where name_field = 'Мобильный для ДБО')
+2018-04-05 10:09:03,385	INFO: (select id_field from RB_CONTRACT_ADDFL_DIC              where name_field = 'EMail клиента')
+2018-04-05 10:09:55,316	INFO: Логин клиента: 9272683933
+2018-04-05 10:09:55,340	INFO: ID клиента 7245
+2018-04-05 10:09:55,345	INFO: Паспорт; 36 07; 700959; 2007-06-15; Отделом УФМС России по Самарской области в Автозаводском районе гор. Тольятти
+2018-04-05 10:09:55,359	INFO: ID клиента 7245
+2018-04-05 10:09:55,361	INFO: (select id_field from CLIENTS_ADDFL_DIC              where name_field = 'Гражданство (подданство)')
+2018-04-05 10:09:55,362	INFO: (select id_field from RB_CONTRACT_ADDFL_DIC              where name_field = 'Мобильный для ДБО')
+2018-04-05 10:09:55,362	INFO: (select id_field from RB_CONTRACT_ADDFL_DIC              where name_field = 'EMail клиента')
+2018-04-05 10:09:55,366	INFO: Адрес: 445028, РОССИЯ, Тольятти, ул. Фрунзе 37-137. Т: , @: mail@mail.ru
+2018-04-05 11:34:44,584	INFO: Логин клиента: 9272683933
+2018-04-05 11:34:44,771	INFO: ID клиента 7245
+2018-04-05 11:34:44,786	INFO: Паспорт; 36 07; 700959; 2007-06-15; Отделом УФМС России по Самарской области в Автозаводском районе гор. Тольятти
+2018-04-05 11:34:44,818	INFO: ID клиента 7245
+2018-04-05 11:34:44,818	INFO: (select id_field from CLIENTS_ADDFL_DIC              where name_field = 'Гражданство (подданство)')
+2018-04-05 11:34:44,818	INFO: (select id_field from RB_CONTRACT_ADDFL_DIC              where name_field = 'Мобильный для ДБО')
+2018-04-05 11:34:44,818	INFO: (select id_field from RB_CONTRACT_ADDFL_DIC              where name_field = 'EMail клиента')
+2018-04-05 11:34:44,818	INFO: Адрес: 445028, РОССИЯ, Тольятти, ул. Фрунзе 37-137. Т: , @: mail@mail.ru
+2018-04-05 11:34:44,880	INFO: ID клиента 7245
+2018-04-05 11:34:44,896	INFO: Клиент: Кузьменко Алексей Александрович; ИНН: 632143277698; ДР: 1987-04-27
+2018-04-05 11:34:44,896	INFO: Паспорт; 36 07; 700959; 2007-06-15; Отделом УФМС России по Самарской области в Автозаводском районе гор. Тольятти
+2018-04-05 11:34:44,896	INFO: (select id_field from CLIENTS_ADDFL_DIC              where name_field = 'Гражданство (подданство)')
+2018-04-05 11:34:44,896	INFO: (select id_field from RB_CONTRACT_ADDFL_DIC              where name_field = 'Мобильный для ДБО')
+2018-04-05 11:34:44,896	INFO: (select id_field from RB_CONTRACT_ADDFL_DIC              where name_field = 'EMail клиента')
+2018-04-05 11:34:44,911	INFO: Адрес: 445028, РОССИЯ, Тольятти, ул. Фрунзе 37-137. Т: , @: mail@mail.ru
+2018-04-05 11:38:55,700	INFO: Логин клиента: lk_arif
+2018-04-05 11:38:55,747	INFO: ID клиента 5081
+2018-04-05 11:39:33,176	INFO: Логин клиента: lk_arif
+2018-04-05 11:39:33,242	INFO: ID клиента 5081
+2018-04-05 11:39:33,250	INFO: Клиент: Арифулин Олег Седекович; ИНН: 632103334653; ДР: 1968-09-29
+2018-04-05 11:39:33,255	INFO: Паспорт; 36 13; 831132; 2013-11-07; Отделом УФМС России по Самарской области в Автозаводском районе гор. Тольятти
+2018-04-05 11:39:33,255	INFO: (select id_field from CLIENTS_ADDFL_DIC              where name_field = 'Гражданство (подданство)')
+2018-04-05 11:39:33,255	INFO: (select id_field from RB_CONTRACT_ADDFL_DIC              where name_field = 'Мобильный для ДБО')
+2018-04-05 11:39:33,255	INFO: (select id_field from RB_CONTRACT_ADDFL_DIC              where name_field = 'EMail клиента')
+2018-04-05 11:39:33,276	INFO: Адрес: 445047, РОССИЯ, Тольятти, ул. 40 лет Победы 2-304. Т: 1234567890, @: o.arifulin@gmail.com; oleg_arifouline@mail.ru; o.arifulin@rtsbank.ru
+2018-04-05 12:41:08,952	INFO: Логин клиента: 9272683933
+2018-04-05 12:41:08,968	INFO: ID клиента 7245
+2018-04-05 12:41:08,968	INFO: Клиент: Кузьменко Алексей Александрович; ИНН: 632143277698; ДР: 1987-04-27
+2018-04-05 12:41:08,983	INFO: Паспорт; 36 07; 700959; 2007-06-15; Отделом УФМС России по Самарской области в Автозаводском районе гор. Тольятти
+2018-04-05 12:41:08,983	INFO: (select id_field from CLIENTS_ADDFL_DIC              where name_field = 'Гражданство (подданство)')
+2018-04-05 12:41:08,983	INFO: (select id_field from RB_CONTRACT_ADDFL_DIC              where name_field = 'Мобильный для ДБО')
+2018-04-05 12:41:08,983	INFO: (select id_field from RB_CONTRACT_ADDFL_DIC              where name_field = 'EMail клиента')
+2018-04-05 12:41:08,983	INFO: Адрес: 445028, РОССИЯ, Тольятти, ул. Фрунзе 37-137. Т: , @: mail@mail.ru
+2018-04-05 12:41:08,999	INFO: (select id_field from RB_CONTRACT_ADDFL_DIC              where name_field = 'Мобильный для ДБО')
+2018-04-05 12:41:22,988	INFO: Логин клиента: 9272683933
+2018-04-05 12:41:23,051	INFO: ID клиента 7245
+2018-04-05 12:41:23,068	INFO: Клиент: Кузьменко Алексей Александрович; ИНН: 632143277698; ДР: 1987-04-27
+2018-04-05 12:41:23,068	INFO: Паспорт; 36 07; 700959; 2007-06-15; Отделом УФМС России по Самарской области в Автозаводском районе гор. Тольятти
+2018-04-05 12:41:23,068	INFO: (select id_field from CLIENTS_ADDFL_DIC              where name_field = 'Гражданство (подданство)')
+2018-04-05 12:41:23,068	INFO: (select id_field from RB_CONTRACT_ADDFL_DIC              where name_field = 'Мобильный для ДБО')
+2018-04-05 12:41:23,068	INFO: (select id_field from RB_CONTRACT_ADDFL_DIC              where name_field = 'EMail клиента')
+2018-04-05 12:41:23,068	INFO: Адрес: 445028, РОССИЯ, Тольятти, ул. Фрунзе 37-137. Т: , @: mail@mail.ru
+2018-04-05 12:41:23,084	INFO: (select id_field from RB_CONTRACT_ADDFL_DIC              where name_field = 'Мобильный для ДБО')
+2018-04-05 12:41:23,099	INFO: Договор: № 4 от 2018-03-07 (т. )
+2018-04-05 12:44:12,679	INFO: Логин клиента: 9272683933
+2018-04-05 12:44:12,757	INFO: ID клиента 7245
+2018-04-05 12:44:12,757	INFO: Клиент: Кузьменко Алексей Александрович ИНН 632143277698, д.р. 1987-04-27
+2018-04-05 12:44:12,773	INFO: Паспорт; 36 07; 700959; 2007-06-15; Отделом УФМС России по Самарской области в Автозаводском районе гор. Тольятти
+2018-04-05 12:44:12,773	INFO: (select id_field from CLIENTS_ADDFL_DIC              where name_field = 'Гражданство (подданство)')
+2018-04-05 12:44:12,773	INFO: (select id_field from RB_CONTRACT_ADDFL_DIC              where name_field = 'Мобильный для ДБО')
+2018-04-05 12:44:12,773	INFO: (select id_field from RB_CONTRACT_ADDFL_DIC              where name_field = 'EMail клиента')
+2018-04-05 12:44:12,773	INFO: Адрес: 445028, РОССИЯ, Тольятти, ул. Фрунзе 37-137. Т: , @: mail@mail.ru
+2018-04-05 12:44:12,789	INFO: (select id_field from RB_CONTRACT_ADDFL_DIC              where name_field = 'Мобильный для ДБО')
+2018-04-05 12:44:12,789	INFO: Договор № 4 от 2018-03-07 (т. )
+2018-04-05 12:44:36,758	INFO: Логин клиента: 9272683933
+2018-04-05 12:44:36,805	INFO: ID клиента 7245
+2018-04-05 12:44:36,820	INFO: Клиент: Кузьменко Алексей Александрович; ИНН 632143277698; д.р. 1987-04-27
+2018-04-05 12:44:36,820	INFO: Паспорт; 36 07; 700959; 2007-06-15; Отделом УФМС России по Самарской области в Автозаводском районе гор. Тольятти
+2018-04-05 12:44:36,820	INFO: (select id_field from CLIENTS_ADDFL_DIC              where name_field = 'Гражданство (подданство)')
+2018-04-05 12:44:36,820	INFO: (select id_field from RB_CONTRACT_ADDFL_DIC              where name_field = 'Мобильный для ДБО')
+2018-04-05 12:44:36,820	INFO: (select id_field from RB_CONTRACT_ADDFL_DIC              where name_field = 'EMail клиента')
+2018-04-05 12:44:36,836	INFO: Адрес: 445028, РОССИЯ, Тольятти, ул. Фрунзе 37-137. Т: , @: mail@mail.ru
+2018-04-05 12:44:36,852	INFO: (select id_field from RB_CONTRACT_ADDFL_DIC              where name_field = 'Мобильный для ДБО')
+2018-04-05 12:44:36,852	INFO: Договор № 4 от 2018-03-07 (т. )
+2018-04-05 12:44:51,986	INFO: Логин клиента: 9272683933
+2018-04-05 12:44:52,048	INFO: ID клиента 7245
+2018-04-05 12:44:52,048	INFO: Клиент: Кузьменко Алексей Александрович; ИНН 632143277698; д.р. 1987-04-27.
+2018-04-05 12:44:52,048	INFO: Паспорт; 36 07; 700959; 2007-06-15; Отделом УФМС России по Самарской области в Автозаводском районе гор. Тольятти
+2018-04-05 12:44:52,048	INFO: (select id_field from CLIENTS_ADDFL_DIC              where name_field = 'Гражданство (подданство)')
+2018-04-05 12:44:52,048	INFO: (select id_field from RB_CONTRACT_ADDFL_DIC              where name_field = 'Мобильный для ДБО')
+2018-04-05 12:44:52,048	INFO: (select id_field from RB_CONTRACT_ADDFL_DIC              where name_field = 'EMail клиента')
+2018-04-05 12:44:52,064	INFO: Адрес: 445028, РОССИЯ, Тольятти, ул. Фрунзе 37-137. Т: , @: mail@mail.ru
+2018-04-05 12:44:52,064	INFO: (select id_field from RB_CONTRACT_ADDFL_DIC              where name_field = 'Мобильный для ДБО')
+2018-04-05 12:44:52,080	INFO: Договор № 4 от 2018-03-07 (т. )
+2018-04-10 08:45:17,426	INFO: (select id_field from CARD_PRODUCT_ADDFL_DIC              where name_field = 'Код платежной системы')
+2018-04-10 08:45:17,457	INFO: (select id_field from CARD_CONTRACT_ADDFL_DIC              where name_field = 'RBSNumber')
+2018-04-10 08:45:17,457	INFO: (select id_field from CARD_CONTRACT_ADDFL_DIC              where name_field = 'Статус карты')
+2018-04-10 08:45:18,143	INFO: (select id_field from CARD_PRODUCT_ADDFL_DIC              where name_field = 'Код платежной системы')
+2018-04-10 08:45:18,143	INFO: (select id_field from CARD_CONTRACT_ADDFL_DIC              where name_field = 'RBSNumber')
+2018-04-10 08:45:18,143	INFO: (select id_field from CARD_CONTRACT_ADDFL_DIC              where name_field = 'Статус карты')
+2018-04-10 08:53:37,721	INFO: (select id_field from CARD_PRODUCT_ADDFL_DIC              where name_field = 'Код платежной системы')
+2018-04-10 08:53:37,721	INFO: (select id_field from CARD_CONTRACT_ADDFL_DIC              where name_field = 'RBSNumber')
+2018-04-10 08:53:37,721	INFO: (select id_field from CARD_CONTRACT_ADDFL_DIC              where name_field = 'Статус карты')
+2018-04-10 08:53:37,861	INFO: (select id_field from CARD_PRODUCT_ADDFL_DIC              where name_field = 'Код платежной системы')
+2018-04-10 08:53:37,861	INFO: (select id_field from CARD_CONTRACT_ADDFL_DIC              where name_field = 'RBSNumber')
+2018-04-10 08:53:37,861	INFO: (select id_field from CARD_CONTRACT_ADDFL_DIC              where name_field = 'Статус карты')
+2018-04-10 09:15:54,697	INFO: (select id_field from CARD_PRODUCT_ADDFL_DIC              where name_field = 'Код платежной системы')
+2018-04-10 09:15:54,697	INFO: (select id_field from CARD_CONTRACT_ADDFL_DIC              where name_field = 'RBSNumber')
+2018-04-10 09:15:54,697	INFO: (select id_field from CARD_CONTRACT_ADDFL_DIC              where name_field = 'Статус карты')
+2018-04-10 09:17:32,709	INFO: (select id_field from CARD_PRODUCT_ADDFL_DIC              where name_field = 'Код платежной системы')
+2018-04-10 09:17:32,709	INFO: (select id_field from CARD_CONTRACT_ADDFL_DIC              where name_field = 'RBSNumber')
+2018-04-10 09:17:32,709	INFO: (select id_field from CARD_CONTRACT_ADDFL_DIC              where name_field = 'Статус карты')
+2018-04-10 09:18:09,094	INFO: (select id_field from CARD_PRODUCT_ADDFL_DIC              where name_field = 'Код платежной системы')
+2018-04-10 09:18:09,094	INFO: (select id_field from CARD_CONTRACT_ADDFL_DIC              where name_field = 'RBSNumber')
+2018-04-10 09:18:09,094	INFO: (select id_field from CARD_CONTRACT_ADDFL_DIC              where name_field = 'Статус карты')
+2018-04-10 09:18:48,739	INFO: (select id_field from CARD_PRODUCT_ADDFL_DIC              where name_field = 'Код платежной системы')
+2018-04-10 09:18:48,739	INFO: (select id_field from CARD_CONTRACT_ADDFL_DIC              where name_field = 'RBSNumber')
+2018-04-10 09:18:48,739	INFO: (select id_field from CARD_CONTRACT_ADDFL_DIC              where name_field = 'Статус карты')
+2018-04-10 09:18:48,880	INFO: (select id_field from CARD_PRODUCT_ADDFL_DIC              where name_field = 'Код платежной системы')
+2018-04-10 09:18:48,880	INFO: (select id_field from CARD_CONTRACT_ADDFL_DIC              where name_field = 'RBSNumber')
+2018-04-10 09:18:48,880	INFO: (select id_field from CARD_CONTRACT_ADDFL_DIC              where name_field = 'Статус карты')
+2018-04-10 09:18:57,484	INFO: (select id_field from CARD_PRODUCT_ADDFL_DIC              where name_field = 'Код платежной системы')
+2018-04-10 09:18:57,484	INFO: (select id_field from CARD_CONTRACT_ADDFL_DIC              where name_field = 'RBSNumber')
+2018-04-10 09:18:57,484	INFO: (select id_field from CARD_CONTRACT_ADDFL_DIC              where name_field = 'Статус карты')
+2018-04-10 09:18:57,593	INFO: (select id_field from CARD_PRODUCT_ADDFL_DIC              where name_field = 'Код платежной системы')
+2018-04-10 09:18:57,593	INFO: (select id_field from CARD_CONTRACT_ADDFL_DIC              where name_field = 'RBSNumber')
+2018-04-10 09:18:57,593	INFO: (select id_field from CARD_CONTRACT_ADDFL_DIC              where name_field = 'Статус карты')
+2018-04-10 09:55:37,654	INFO: ID клиента 2095
+2018-04-10 09:56:51,476	INFO: ID клиента 164
+2018-04-10 09:57:00,179	INFO: ID клиента 5081

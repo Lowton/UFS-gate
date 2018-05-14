@@ -1,0 +1,3 @@
+insert into RB_CONTRACT
+with ( ROWLOCK, UPDLOCK ) (ID_MODEL, TYPE_CONTRACT, ID_CLIENT, NAME_CLIENT, NUM_CONTRACT, DATE_BEGIN, DATE_END, DATE_PAID, STATE, DOC_SIGN_MODE, DOC_CONFIRM_MODE, SIGN_QNT, NUM_DIVISION, ID_EXECUT, ID_USER_EDIT, TIME_EDIT, ID_USER_CREATE, TIME_CREATE)
+values (3, 1, 7245, 'Кузьменко Алексей Александрович', '2', convert(datetime, '2018-02-16T00:00:00.000', 126), convert(datetime, '2222-01-01T00:00:00.000', 126), convert(datetime, '2222-01-01T00:00:00.000', 126), 0, 0, 0, 0, 1, 0, 2, getdate(), 2, getdate())

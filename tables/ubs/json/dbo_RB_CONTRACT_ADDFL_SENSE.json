@@ -1,0 +1,8 @@
+[
+{"ID_FIELD":"11","NUM_SENSE":"1","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"Еженедельно","SENSE_DECIMAL":"null"},
+{"ID_FIELD":"11","NUM_SENSE":"2","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"Ежемесячно","SENSE_DECIMAL":"null"},
+{"ID_FIELD":"20","NUM_SENSE":"1","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"Стандартная","SENSE_DECIMAL":"null"},
+{"ID_FIELD":"20","NUM_SENSE":"2","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"Расширенная","SENSE_DECIMAL":"null"},
+{"ID_FIELD":"23","NUM_SENSE":"1","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"По дате","SENSE_DECIMAL":"null"},
+{"ID_FIELD":"23","NUM_SENSE":"2","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"По сумме ДБ","SENSE_DECIMAL":"null"},
+{"ID_FIELD":"23","NUM_SENSE":"3","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"По сумме КР","SENSE_DECIMAL":"null"}]

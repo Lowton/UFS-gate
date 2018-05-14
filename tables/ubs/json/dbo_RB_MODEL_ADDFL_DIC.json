@@ -1,0 +1,8 @@
+[
+{"ID_FIELD":"1","NAME_FIELD":"Льготный период","MAND_USE":"false","TYPE_FIELD":"0","YES_SENSE":"1","MEANING_FIELD":"Льготный период обслуживания","IS_NOT_VISUAL":"false","NUM_ORDER":"1","FORMAT_FIELD":"null"},
+{"ID_FIELD":"2","NAME_FIELD":"Доступный функционал","MAND_USE":"false","TYPE_FIELD":"0","YES_SENSE":"0","MEANING_FIELD":"Доступ к функционалу системы","IS_NOT_VISUAL":"true","NUM_ORDER":"2","FORMAT_FIELD":"null"},
+{"ID_FIELD":"3","NAME_FIELD":"Ид. банковского продукта расчетного счета","MAND_USE":"false","TYPE_FIELD":"1","YES_SENSE":"0","MEANING_FIELD":"Идентификатор банковского продукта расчетного счета","IS_NOT_VISUAL":"true","NUM_ORDER":"3","FORMAT_FIELD":"null"},
+{"ID_FIELD":"4","NAME_FIELD":"Договоры для работы","MAND_USE":"false","TYPE_FIELD":"0","YES_SENSE":"0","MEANING_FIELD":"Договоры для работы","IS_NOT_VISUAL":"true","NUM_ORDER":"4","FORMAT_FIELD":"null"},
+{"ID_FIELD":"5","NAME_FIELD":"Маска номера договора","MAND_USE":"false","TYPE_FIELD":"4","YES_SENSE":"0","MEANING_FIELD":"Маска номера договора","IS_NOT_VISUAL":"false","NUM_ORDER":"5","FORMAT_FIELD":"null"},
+{"ID_FIELD":"6","NAME_FIELD":"Оплата в момент создания договора","MAND_USE":"false","TYPE_FIELD":"4","YES_SENSE":"1","MEANING_FIELD":"Оплата в момент создания договора","IS_NOT_VISUAL":"false","NUM_ORDER":"6","FORMAT_FIELD":"null"},
+{"ID_FIELD":"7","NAME_FIELD":"Банковские продукты","MAND_USE":"false","TYPE_FIELD":"0","YES_SENSE":"0","MEANING_FIELD":"Банковские продукты","IS_NOT_VISUAL":"true","NUM_ORDER":"7","FORMAT_FIELD":"null"}]

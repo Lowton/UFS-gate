@@ -1,0 +1,5 @@
+[
+{"ID_FIELD":"84","NUM_SENSE":"1","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"Уменьшение срока","SENSE_DECIMAL":"null"},
+{"ID_FIELD":"84","NUM_SENSE":"2","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"Уменьшение суммы платежа","SENSE_DECIMAL":"null"},
+{"ID_FIELD":"142","NUM_SENSE":"1","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"Прием","SENSE_DECIMAL":"null"},
+{"ID_FIELD":"142","NUM_SENSE":"2","SENSE_INT":"null","SENSE_DATE":"null","SENSE_MONEY":"null","SENSE_STRING":"Выдача","SENSE_DECIMAL":"null"}]

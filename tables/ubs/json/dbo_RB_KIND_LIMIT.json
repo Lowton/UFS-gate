@@ -1,0 +1,8 @@
+[
+{"ID_KIND_LIMIT":"1","SID_KIND_LIMIT":"COUNT_OPER_BY_DAY","NAME_KIND_LIMIT":"Количество операций с одного счета в день","TYPE_VALUE":"1"},
+{"ID_KIND_LIMIT":"2","SID_KIND_LIMIT":"COUNT_OPER_BY_WEEK","NAME_KIND_LIMIT":"Количество операций с одного счета в неделю","TYPE_VALUE":"1"},
+{"ID_KIND_LIMIT":"3","SID_KIND_LIMIT":"COUNT_OPER_BY_MONTH","NAME_KIND_LIMIT":"Количество операций с одного счета в месяц","TYPE_VALUE":"1"},
+{"ID_KIND_LIMIT":"4","SID_KIND_LIMIT":"SUM_TOTAL_OPER_BY_DAY","NAME_KIND_LIMIT":"Максимальная сумма платежа с одного счета в день","TYPE_VALUE":"3"},
+{"ID_KIND_LIMIT":"5","SID_KIND_LIMIT":"SUM_TOTAL_OPER_BY_WEEK","NAME_KIND_LIMIT":"Максимальная сумма платежа с одного счета в неделю","TYPE_VALUE":"3"},
+{"ID_KIND_LIMIT":"6","SID_KIND_LIMIT":"SUM_TOTAL_OPER_BY_MONTH","NAME_KIND_LIMIT":"Максимальная сумма платежа с одного счета в месяц","TYPE_VALUE":"3"},
+{"ID_KIND_LIMIT":"7","SID_KIND_LIMIT":"MIN_SUM_OPER","NAME_KIND_LIMIT":"Минимальная сумма платежа","TYPE_VALUE":"3"}]

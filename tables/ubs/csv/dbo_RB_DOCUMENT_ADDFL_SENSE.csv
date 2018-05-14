@@ -1,0 +1,5 @@
+﻿"ID_FIELD";"NUM_SENSE";"SENSE_INT";"SENSE_DATE";"SENSE_MONEY";"SENSE_STRING";"SENSE_DECIMAL"
+84;1;null;null;null;"Уменьшение срока";null
+84;2;null;null;null;"Уменьшение суммы платежа";null
+142;1;null;null;null;"Прием";null
+142;2;null;null;null;"Выдача";null

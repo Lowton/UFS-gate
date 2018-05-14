@@ -1,0 +1,10 @@
+﻿"ID_FIELD";"INDEX_COLUMN";"NUM_SENSE";"SENSE_INT";"SENSE_DATE";"SENSE_MONEY";"SENSE_STRING";"SENSE_DECIMAL"
+25;0;1;null;null;null;"ИНН";null
+25;0;2;null;null;null;"ВУ";null
+25;0;3;null;null;null;"СТС";null
+25;0;4;null;null;null;"СНИЛС";null
+28;0;1;null;null;null;"Цветы";null
+28;0;2;null;null;null;"Спортивные клубы";null
+28;0;3;null;null;null;"Услуги транспорта";null
+28;0;4;null;null;null;"Аптеки";null
+28;0;5;null;null;null;"Парфюмерия и косметика";null

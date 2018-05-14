@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+  <S:Body>
+  	<reg:registerCards xmlns:reg="http://fxgate.web.cft.ru/registration">
+        <reg:account number="40817810600001000008" name="РТС Зарплатный" open-date="2018-03-05" first-signs-count="1">
+        	<reg:bank bic="043678783" bic-type="ru" inn="6323066377" account-number="30101810100000000783" name="АО «РТС-Банк»" />
+        </reg:account>
+		<reg:card name="РТС Зарплатная" number="48900000000000055555" type="VPS" card-acc="48900000000000050137" expiration-date="2018-08-30" payment-system-type="VISA" card-product-code="?61 (Visa Classic)"/>
+        <reg:account-rights account-number="40817810600001000008" statement-request="false" payment-create="true" payment-sign-level="1" exchange-debit-create="true" exchange-debit-sign-level="1" exchange-credit-create="true" exchange-credit-sign-level="3" />    
+  	</reg:registerCards>
+  </S:Body>
+</S:Envelope>
